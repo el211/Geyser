@@ -31,6 +31,8 @@ import org.geysermc.api.session.Connection;
 
 import java.util.List;
 import java.util.UUID;
+import java.util.List;
+import java.util.UUID;
 
 /**
  * The base API class.
